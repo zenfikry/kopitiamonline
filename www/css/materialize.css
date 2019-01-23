@@ -3257,7 +3257,7 @@ nav ul a span.badge {
 }
 
 .progress .indeterminate {
-  background-color: #b66868;
+  background-color: #ba7937;
 }
 
 .progress .indeterminate:before {
@@ -4829,7 +4829,7 @@ small {
 }
 
 .tabs .tab a {
-  color: #b66868;
+  color: #ba7937;
   display: block;
   width: 100%;
   height: 100%;
@@ -4839,11 +4839,11 @@ small {
 }
 
 .tabs .tab a:hover {
-  color: #b66868;
+  color: #ba7937;
 }
 
 .tabs .tab.disabled a {
-  color: #b66868;
+  color: #ba7937;
   cursor: default;
 }
 
@@ -4851,7 +4851,7 @@ small {
   position: absolute;
   bottom: 0;
   height: 2px;
-  background-color: #b66868;
+  background-color: #ba7937;
   will-change: left, right;
 }
 
@@ -4959,7 +4959,7 @@ small {
 .btn, .btn-large {
   text-decoration: none;
   color: #fff;
-  background-color: #b66868;
+  background-color: #ba7937;
   text-align: center;
   letter-spacing: .5px;
   transition: .2s ease-out;
@@ -4967,7 +4967,7 @@ small {
 }
 
 .btn:hover, .btn-large:hover {
-  background-color: #b66868;
+  background-color: #ba7937;
 }
 
 .btn-floating {
@@ -5420,7 +5420,7 @@ button.btn-floating {
   padding: 0;
 }
 .side-nav{
-    border-left:5px solid #b66868;
+    border-left:5px solid #ba7937;
 }
 .side-nav .collapsible-header,
 .side-nav.fixed .collapsible-header {
@@ -8479,7 +8479,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 .gradien_ungu{
     text-align: center;
 /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffaf4b+0,ff69b4+100 */
-background: #b66868; /* Old browsers */
+background: #ba7937; /* Old browsers */
 }
 .welcome {
     width: 100%;
